@@ -25,7 +25,7 @@ int main() {
 	int duration = 1000; // In milliseconds
 	tween::easing easing_mode = tween::easing::sine_ease_in_out; // Easing mode
 
-  tween t(initial, target, duration, easing_mode);
+  	tween t(initial, target, duration, easing_mode);
 
 	// Step at 60 frames per second
 	while (true) {
