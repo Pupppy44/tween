@@ -12,8 +12,10 @@
 - Timing is done internally, no extra code required
 - Simple and easy interface
 
-## Example
+## Usage
+To use `tween`, just include the single-header to your project.
 
+## Example
 ```cpp
 #include <iostream>
 #include <tween.hpp> // Path to
